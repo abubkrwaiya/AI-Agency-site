@@ -1,0 +1,82 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+button .on {
+  background-color: rgb(235, 74, 250);
+} */
+
+/* backgound style */
+
+.GeeksForGeeks {
+  background-image: url("https://scitechdaily.com/images/Artificial-Intelligence-Robot-Thinking-Brain.jpg");
+  background-size: "cover";
+  height: 100vh;
+  margin-top: -70px;
+  font-size: 50px;
+  background-repeat: no-repeat;
+  width: 100;
+}
+#divvv:hover {
+  filter: drop-shadow(0 0 2em #929192aa);
+  cursor: pointer;
+}
+#divvv {
+  background-color: #0a274c;
+}
+#btnColor {
+  background-color: #bbd7e2;
+}
+#set {
+  background-image: url("https://itbrief.com.au/uploads/story/2023/11/14/img-KKi85rZ3jh6b1I2BDkBwEAz9.webp");
+  background-size: "cover";
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 240px;
+  padding-bottom: 240px;
+}
+#card {
+  background-color: #0a274c;
+}
+#form {
+  background-color: #0a274c;
+}
